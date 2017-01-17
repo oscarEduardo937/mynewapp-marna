@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: mynewapp-marna
+  host: mynewapp-marna
+  disk_quota: 1024M
